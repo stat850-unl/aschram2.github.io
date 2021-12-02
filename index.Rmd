@@ -1,0 +1,15 @@
+---
+title: "index"
+author: "Aaron Schram"
+date: "12/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Stat 850 Presentations
+
+<https://github.com/stat850-unl/11-presentation-aschram2/blob/master/laTeX.pdf>
+<https://github.com/stat850-unl/11-presentation-aschram2/blob/master/figure/markdownpresentation.pdf>
